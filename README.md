@@ -1,5 +1,9 @@
 ## Hi there 👋
 ![Profile Views ](https://komarev.com/ghpvc/?username=alexandrelavoie2)
+
+[![alexandrelavoie2's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandrelavoie2)](https://github.com/alexandrelavoie2/github-readme-stats)
+
+
 <!--
 **alexandrelavoie2/alexandrelavoie2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
